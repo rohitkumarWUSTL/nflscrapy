@@ -1,2 +1,2 @@
 # nflscrapy
-nflscrapR, but python
+nflscrapR, but python!
